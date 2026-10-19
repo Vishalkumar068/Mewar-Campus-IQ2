@@ -6,7 +6,7 @@
 
 🌐 **Live Demo:** https://mewar-campus-iq.onrender.com\
 📦 **GitHub Repository:**
-https://github.com/MDSalman22415/mewar-campus-iq
+https://github.com/Vishalkumar068/Mewar-Campus-IQ2.git
 
 ------------------------------------------------------------------------
 
@@ -667,7 +667,7 @@ that decision explicitly.
 
 -   **Live Demo:** https://mewar-campus-iq.onrender.com
 -   **GitHub Repository:**
-    https://github.com/MDSalman22415/mewar-campus-iq
+  https://github.com/Vishalkumar068/Mewar-Campus-IQ2.git
 
 *Built to make campus learning more interactive, accessible, and
 AI-assisted.* 🎓
